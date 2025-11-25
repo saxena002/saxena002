@@ -67,8 +67,18 @@ Here are some of my completed hands-on data projects based on my skills:
 ---
 
 ## 🤝 Connect With Me  
-More links (LinkedIn, Portfolio) will be added soon!
+<a href="https://www.linkedin.com/feed/" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+<a href="https://www.naukri.com/mnjuser/profile" target="_blank"> 
+  <img src="https://img.shields.io/badge/Naukri-1A73E8?style=for-the-badge" />
+</a>
+
+<a href="https://www.glassdoor.co.in/Community/index.htm" target="_blank"> 
+  <img src="https://img.shields.io/badge/Glassdoor-00A46E?style=for-the-badge&logo=glassdoor&logoColor=white" />
+</a>
+
+🌐 Portfolio link will be added soon.
 
 ⭐ **Thank you for visiting my GitHub profile!**  
